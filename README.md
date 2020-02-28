@@ -6,7 +6,7 @@
 
 Q: What is this and what does it do?
 
-A: This is a [docker](https://www.docker.com/) container, used with the Docker application to run software anywhere that supports Docker!  This can make setup of complex applications quick and easy.
+A: This is a [docker](https://www.docker.com/) container, used with the Docker application to run software anywhere that supports Docker!  This can make setup of complex applications quick and easy.  This container runs the Vintage Story dedicated game server with very simple setup.  Future releases may add server management and monitoring features!
 
 Q: So is it like a virtual machine?
 
@@ -14,7 +14,7 @@ A:  Kind of, but not really.  Virtual machines have a lot of overhead and will m
 
 Q: What do I need to run this?
 
-A: Just [download Docker](https://www.docker.com/products/docker-desktop)!  If you are on linux, you can often install docker from your distributions software repository.  [Check here](https://www.tutorialspoint.com/docker/installing_docker_on_linux.htm) if you need help.
+A: Just [download Docker](https://www.docker.com/products/docker-desktop)!  If you are on linux, you can often install docker from your distribution's software repository.  [Check here](https://www.tutorialspoint.com/docker/installing_docker_on_linux.htm) if you need help.
 
 Q: I've got Docker, now what?
 
