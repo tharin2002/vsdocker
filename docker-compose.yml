@@ -1,0 +1,9 @@
+version: '3'
+services:
+  server:
+    build: .
+    ports:
+    - "42420:42420" # Change the first number to the port you would like to connect with, leave the second number as 42420.  ex: "9001:42420"
+    volumes:
+    - ./vintagestoryserver:/home/vintagestory/server # Maps the local server files to the container
+    - ./data:/var/vintagestory/data # Maps the local data directory to the container
