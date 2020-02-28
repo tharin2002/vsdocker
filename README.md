@@ -33,9 +33,15 @@ Q: Can I add mods or edit game files?
 A: You can!  Both `vintagestoryserver` and `data` directories are mapped to the docker containers, so any files you add or change will instantly apply to the server as well!  Vintage Story is a very easily moddable game, so feel free to tweak any of the json files you see in the data directory to get started modding!  For more information, join the [Vintage Story Discord](https://discord.gg/Svej6Tb) or check out the [wiki](https://wiki.vintagestory.at/index.php?title=Main_Page).
 
 > ## TL;DR
+>
 > Dependencies: Docker
+>
 > Setup: [Download server files](https://account.vintagestory.at/)
+>
 > Optional: Add existing game data files to `data` folder
+>
 > Run: `docker-compose up`
+>
 > Change port: Edit `docker-compose.yml`
+>
 > Add mods: Drop files directly into `Mods` folder in either `vintagestoryserver` or `data` directory
