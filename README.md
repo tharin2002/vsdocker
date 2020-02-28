@@ -36,7 +36,7 @@ A: You can!  Both `vintagestoryserver` and `data` directories are mapped to the 
 >
 > Dependencies: Docker
 >
-> Setup: [Download server files](https://account.vintagestory.at/)
+> Setup: [Download server files](https://account.vintagestory.at/), extract to `vintagestoryserver`
 >
 > Optional: Add existing game data files to `data` folder
 >
